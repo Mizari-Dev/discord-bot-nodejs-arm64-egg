@@ -1,0 +1,11 @@
+{
+  "name": "discord-bot-nodejs-arm64",
+  "version": "1.0.0",
+  "description": "Bot Discord with NodeJS for ARM64 system",
+  "main": "index.js",
+  "author": "Mizari",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+  }
+}
